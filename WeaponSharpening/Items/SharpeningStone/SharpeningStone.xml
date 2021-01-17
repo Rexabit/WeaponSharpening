@@ -4,7 +4,7 @@
   <Target_ItemID>4400040</Target_ItemID>
   <New_ItemID>5850759</New_ItemID>
   <Name>Sharpening Stone</Name>
-  <Description>Used to sharpen the edges of weapons and implements through griding and honing.</Description>
+  <Description>Used to sharpen the edges of weapons and implements through grinding and honing.</Description>
   <LegacyItemID>-1</LegacyItemID>
   <IsPickable>true</IsPickable>
   <IsUsable>true</IsUsable>
@@ -13,12 +13,12 @@
   <RepairedInRest>false</RepairedInRest>
   <BehaviorOnNoDurability>Destroy</BehaviorOnNoDurability>
   <CastType>Flint</CastType>
-  <!--<ItemExtensions>
+  <ItemExtensions>
     <SL_ItemExtension xsi:type="SL_MultipleUsage">
       <AppliedOnPrice>true</AppliedOnPrice>
       <AppliedOnWeight>false</AppliedOnWeight>
-      <AutoStack>true</AutoStack>
-      <MaxStackAmount>5</MaxStackAmount>
+      <AutoStack>false</AutoStack>
+      <MaxStackAmount>1</MaxStackAmount>
     </SL_ItemExtension>
-  </ItemExtensions>-->
+  </ItemExtensions>
 </SL_Item>
