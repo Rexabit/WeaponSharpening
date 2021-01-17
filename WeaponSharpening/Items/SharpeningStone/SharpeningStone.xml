@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SL_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EffectBehaviour>Destroy</EffectBehaviour>
+  <Target_ItemID>4400040</Target_ItemID>
+  <New_ItemID>5850759</New_ItemID>
+  <Name>Sharpening Stone</Name>
+  <Description>Used to sharpen the edges of weapons and implements through griding and honing.</Description>
+  <LegacyItemID>-1</LegacyItemID>
+  <IsPickable>true</IsPickable>
+  <IsUsable>true</IsUsable>
+  <QtyRemovedOnUse>-1</QtyRemovedOnUse>
+  <GroupItemInDisplay>false</GroupItemInDisplay>
+  <RepairedInRest>false</RepairedInRest>
+  <BehaviorOnNoDurability>Destroy</BehaviorOnNoDurability>
+  <CastType>Flint</CastType>
+  <!--<ItemExtensions>
+    <SL_ItemExtension xsi:type="SL_MultipleUsage">
+      <AppliedOnPrice>true</AppliedOnPrice>
+      <AppliedOnWeight>false</AppliedOnWeight>
+      <AutoStack>true</AutoStack>
+      <MaxStackAmount>5</MaxStackAmount>
+    </SL_ItemExtension>
+  </ItemExtensions>-->
+</SL_Item>
